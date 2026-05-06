@@ -37,4 +37,4 @@ O sistema permite criar clientes, contas e realizar operações bancárias bási
 Os dados são armazenados apenas em memória.
 
 ## Autor
-Edson Toyoshima
+Edson Sadao Pereira Toyoshima
